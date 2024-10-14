@@ -26,12 +26,15 @@ nav > ul {
   color:#E5E7EB;
   font-size: 18px;
   gap: 16px;
+  letter-spacing: 2px;
 }
 
 nav > ul > .logo {
   margin-right: auto;
   color: #F8FAF8;
   font-size: 24px;
+  font-weight: bold;
+  letter-spacing: 0px;
 }
 
 .hero-section {
@@ -63,6 +66,7 @@ nav > ul > .logo {
   margin-bottom: 16px;
   color:#E5E7EB;
   font-size: 18px;
+  line-height: 1.3;
 }
 
 .sign-up {
@@ -95,6 +99,7 @@ main > h2 {
   font-size: 36px;
   font-weight: 900;
   color:#1F2937;
+  letter-spacing: 1px;
 }
 
 .service-catalog {
@@ -120,6 +125,7 @@ object-fit: cover;
   margin-top: 8px;
   font-size: 18px;
   color: #1F2937;
+  line-height: 1.3;
 
 }
 
@@ -146,10 +152,12 @@ blockquote {
   width: 1000px;
   margin: 0 auto;
   gap: 24px;
+  letter-spacing: 2px;
 }
 
 .blockquote-author {
   align-self: flex-end;
+  letter-spacing: 2px;
 }
 
 /* call to action section*/
@@ -167,11 +175,14 @@ blockquote {
   font-size: 24px;
   font-weight:900;
   color: #F8FAF8;
+  letter-spacing: 1px;
+  margin-bottom: 4px;
 }
 
 .action-text > p {
   font-size: 16px;
   color: #E5E7EB;
+  line-height: 1.3;
 }
 
 .action-container {
@@ -206,6 +217,7 @@ blockquote {
   flex-direction: column;
   height: 150px;
   gap: 8px;background-color: #1F2937;
+  letter-spacing: 2px;
 
 
 }
@@ -214,6 +226,7 @@ blockquote {
   font-size: 24px;
   font-weight: 900;
   color: #F8FAF8;
+  letter-spacing: 1px;
 }
 
 
@@ -225,4 +238,5 @@ blockquote {
 .footer > p {
   font-size: 16px;
   color: #E5E7EB;
+  letter-spacing: 1px;
 }
